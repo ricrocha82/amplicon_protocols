@@ -7,8 +7,4 @@ Preprint: [The importance of environmental parameters and mixing zone in shaping
 
 Preprint: [Composition and functionality of bacterioplankton communities in marine coastal zones adjacent to finfish aquaculture](https://www.biorxiv.org/content/10.1101/2022.03.07.483349v1)
 
-[Bacterial 16S](https://github.com/ricrocha82/amplicon_protocols)
-
-[Archaeal 16S](https://github.com/ricrocha82/amplicon_protocols)
-
-[Eukaryotic 18S](https://github.com/ricrocha82/amplicon_protocols)
+Additional information can be found in the [Australian Microbiome Initiave](https://www.australianmicrobiome.com). More protocols are available at the https://www.australianmicrobiome.com/wp-content/uploads/2021/03/
